@@ -359,8 +359,6 @@
 ```
 ## Список Литературы
 
-[^1]: Prakticheskaia-rabota-2-Sidorov-A.V.-1.pdf
-
 [^2]: https://s1000d.ru/userforum/2010/summary/index.html?view=print
 
 [^3]: https://cals.ru/sites/default/files/downloads/tgb/Code.pdf
