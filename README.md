@@ -6,8 +6,8 @@
 
 Код модуля данных (DMC) построен согласно требованиям главы 5.2.1.2 спецификации S1000D:[^13][^14]
 
-- **modelIdentCode**: "ADB2206" - идентификатор модели из задания
-- **systemCode**: "00" - код системы (общая система разработки)
+- **modelIdentCode**: "ADB2206" - идентификатор модели
+- **systemCode**: "00" - код системы
 - **infoCode**: "040" - код описательной информации
 - **itemLocationCode**: "D" - проектные данные
 
@@ -44,7 +44,7 @@
     <dmAddress>
       <!-- Код модуля данных (DMC) -->
       <dmIdent>
-        <!-- Код идентификации модели (АДБ-22-06 из задания) -->
+        <!-- Код идентификации модели -->
         <dmCode modelIdentCode="ADB2206" systemDiffCode="AAA" 
                 systemCode="00" subSystemCode="0" subSubSystemCode="0" 
                 assyCode="00" disassyCode="00" disassyCodeVariant="A" 
